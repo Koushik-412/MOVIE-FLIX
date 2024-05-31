@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* font-weight: 700; */
+    box-sizing: border-box;
+}
+h1{
+    font-weight: 700;
+}
+
+.b{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+
+
+.center{
+    width: 300px;
+    padding: 2rem;
+    height: min-content;
+    align-items: center;
+    border-radius: 8px;
+
+}   
+
+.center h1{
+    font-size: 36px;
+    border-bottom: 1px solid silver;
+}
+
+.center form input[type="submit"]{
+    font-size: 20px;
+    margin-top: 13px;
+}
+
+.text-field{
+    border-bottom: 2px solid #adadad;
+    margin: 30px 0;
+}
+
+form .text-field field{
+    font-size: 16px;
+    border: none;
+    background: none;
+    outline: none;
+}
+
+.bg-color{
+    background-color: #1a1d1d;
+}
+
+.checkboxtext{
+    font-size: 10px;
+}
+
+.checkbox{
+    margin-top: 6px;
+}
+
+.p-text{
+    font-size: 12px;
+}

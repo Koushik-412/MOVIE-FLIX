@@ -1,0 +1,24 @@
+.card_p{
+        display: flex;
+        flex-direction: column;
+        height: 31rem;
+        width: 21rem;
+}
+
+
+.list__title {
+font-size: 1.75rem;
+margin:  2.5rem;
+color: white;
+font-weight: 700;
+}
+
+@media screen and (min-width:990px){
+        .card_p{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                height: 38rem;
+        }
+}
+

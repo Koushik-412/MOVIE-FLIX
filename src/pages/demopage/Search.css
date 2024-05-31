@@ -1,0 +1,22 @@
+.search-container {
+    margin: 20px;
+}
+
+.search-results {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.search-result-item {
+    margin: 10px;
+    color: white;
+}
+
+.search-result-item img {
+    width: 200px;
+    height: auto;
+}
+
+.search-result-info {
+    padding: 10px;
+}

@@ -1,0 +1,72 @@
+
+
+ .movie{
+    min-height: auto;
+    color: #fff;
+ }
+
+ .movie__poster{
+    width:15rem;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.86) 0px 22px 40px 6px;
+    height: 20rem;
+ }
+
+ .movie__backdrop{
+    height: 500px;
+ }
+
+ .movie__name {
+    font-weight: 600;
+    font-size: 3rem;
+}
+
+.movie__voteCount {
+    margin-left: 1rem;
+}
+
+
+
+.movie__genres {
+    margin: 1.25rem 0;
+}
+
+.movie__genre {
+    padding: .5rem;
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-right: 1rem;
+}
+
+.movie__detailRightBottom {
+    margin: 2rem 0;
+    /* flex: 0.8; */
+}
+
+.movie__detail {
+    align-items: center;
+    display: flex;
+    position: relative;
+    bottom: 225px;
+}
+
+.movie__Button {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    padding: 0.8rem 2rem;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 150px;
+    color: black;
+    font-weight: bold;
+}
+
+.movie__homeButton {
+    background-color:rgb(255, 0, 0);
+
+}
+
+.movie__imdbButton {
+    background-color:#f3ce13;
+}
