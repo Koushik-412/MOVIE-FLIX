@@ -26,10 +26,12 @@ Clone the repository: Download the project files from GitHub.
 Open the project in VSCode: Navigate to the project directory and open it in Visual Studio Code (VSCode).
 
 Install dependencies: Run the following command to install the necessary dependencies.
-** npm i react-scripts
+
+npm i react-scripts
 
 Start the development server: Use the following command to start the application.
-**npm start
+
+npm start
 
 Usage
 Once the server is running, you can access the Movie-Flix website in your web browser. Sign up or log in to start exploring movies, searching for your favorites, and creating personalized playlists.
