@@ -1,3 +1,6 @@
+Deploy Link:
+https://movie-flix-five-alpha.vercel.app/
+
 Movie-Flix is a comprehensive movie website designed to provide users with a seamless experience for exploring movies. Built using React, HTML, CSS, and JavaScript, this project leverages the OMDB API to fetch movie data, offering a rich interface for movie enthusiasts. Key functionalities include user authentication, searching for movies, and creating personalized playlists.
 
 Project Modules
